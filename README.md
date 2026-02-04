@@ -71,4 +71,4 @@ Based on these evaluations, the **Tuned Logistic Regression** and **Tuned Decisi
 *   **Address Precision/Recall Trade-off**: Explore more sophisticated resampling techniques (e.g., SMOTE, ADASYN) or cost-sensitive learning to improve the balance between precision and recall, considering the business costs of false positives vs. false negatives.
 *   **Enhance Feature Engineering**: Incorporate other feature groups from the dataset (contact information, other attributes, social and economic context, *excluding* `duration`) and perform robust feature selection to potentially improve model performance.
 
-https://github.com/tahirp/classification_benchmarking/blob/main/classifier_comparison.ipynb
+[Bank Marketing Campaign Models Analysis](https://github.com/tahirp/classification_benchmarking/blob/main/classifier_comparison.ipynb)
