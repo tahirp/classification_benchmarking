@@ -3,7 +3,7 @@
 ## Project Overview
 This project aims to compare the performance of K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines classifiers on a dataset related to marketing bank products over the telephone. The goal is to optimize the efficiency and effectiveness of the bank's telemarketing campaigns.
 
-Our dataset originates from the UCI Machine Learning repository ([link](https://archive.ics.uci.edu/ml/datasets/bank+marketing)). It comprises data from a Portuguese banking institution, detailing the results of multiple marketing campaigns. The analysis is informed by the accompanying article [CRISP-DM-BANK.pdf] for detailed context on the data and features. The data represents **17** distinct marketing campaigns.
+Our dataset originates from the UCI Machine Learning repository ([link](https://archive.ics.uci.edu/ml/datasets/bank+marketing)). It comprises data from a Portuguese banking institution, detailing the results of multiple marketing campaigns. The analysis is informed by the accompanying article ([CRISP-DM-BANK.pdf](https://www.researchgate.net/publication/337024929_Bank_Marketing_Data_Mining_using_CRISP-DM_Approach)) for detailed context on the data and features. The data represents **17** distinct marketing campaigns.
 
 ## Business Objective
 The primary business objective is to **optimize the efficiency and effectiveness of the bank's telemarketing campaigns for term deposits by identifying potential clients who are most likely to subscribe.** This involves developing a predictive model to accurately identify characteristics of clients likely to subscribe, thereby enabling targeted marketing efforts, reducing operational costs, improving conversion rates, and enhancing client experience.
